@@ -17,7 +17,7 @@ Araştırma ödevleri
 
 Kod ödevi
 1. Aşağıdaki 4 işlem uygulamasınız yapmaya çalışalım:
-   https://github.com/yasinhoca/visual_programming_spring_24/blob/main/odev1/odev1.gif?raw=true
+   <img src ="https://github.com/yasinhoca/visual_programming_spring_24/blob/main/odev1/odev1.gif">
 
 
 

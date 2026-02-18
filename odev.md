@@ -1,19 +1,19 @@
 Araştırma ödevleri
 1. Java Swing, JavaFX ve mobil uygulama tasarım yöntemleri hakkında araştırma yapınız? Farklarını avantajlarını/dezavantajlarını karşılaştırınız?
 2. Event ve Listener kavramlarını araştırınız? Çalışma mantığını anlatınız?
-3. Aşağıdaki yazılım mimarilerini araştıralım, okuma yaptıktan sonra kendi cümlelerimiz ve şekillerimizle anlatalım:
+3. Aşağıdaki yazılım mimarilerini araştıralım, okuma yaptıktan sonra kendi cümlelerimiz ve şekillerimizle anlatalım:<br>
 -Monolithic architecture <br>
--Microservice  architecture
--Layered  architecture
--Event Driven  architecture
--Micro Kernel  architecture
--Space-Based  architecture
--Serverless  architecture
--Service-Oriented  architecture (Soa)
--Clean  architecture
--Domain-Driven Design  architecture
--CQRS-Event sourcing  architecture
--Hexagonal ports and adapters  architecture
+-Microservice  architecture<br>
+-Layered  architecture<br>
+-Event Driven  architecture<br>
+-Micro Kernel  architecture<br>
+-Space-Based  architecture<br>
+-Serverless  architecture<br>
+-Service-Oriented  architecture (Soa)<br>
+-Clean  architecture<br>
+-Domain-Driven Design  architecture<br>
+-CQRS-Event sourcing  architecture<br>
+-Hexagonal ports and adapters  architecture<br>
 
 Kod ödevi
 1. Aşağıdaki 4 işlem uygulamasınız yapmaya çalışalım: (Kod ödevlerini kendiniz yazmaya çalışınız, yazdığınız yere kadar satır satır açıklayınız. Ardından programı yapay zekaya yazdırınız? Kendi yaklaşımınız ve onun yaklaşımını karşılaştırınız. (kodu tam yazan arkadaşlar da yapay zekanın yazdığı programla kendi yaklaşaımını karşılaştırsın) Yaklaşım farklarını veya neden çözemediğinizi yazınız.)

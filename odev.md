@@ -3,16 +3,27 @@ Araştırma ödevleri
 2. Event ve Listener kavramlarını araştırınız? Çalışma mantığını anlatınız?
 3. Aşağıdaki yazılım mimarilerini araştıralım, okuma yaptıktan sonra kendi cümlelerimiz ve şekillerimizle anlatalım:
 -Monolithic architecture
+
 -Microservice  architecture
+
 -Layered  architecture
+
 -Event Driven  architecture
+
 -Micro Kernel  architecture
+
 -Space-Based  architecture
+
 -Serverless  architecture
+
 -Service-Oriented  architecture (Soa)
+
 -Clean  architecture
+
 -Domain-Driven Design  architecture
+
 -CQRS-Event sourcing  architecture
+
 -Hexagonal ports and adapters  architecture
 
 Kod ödevi

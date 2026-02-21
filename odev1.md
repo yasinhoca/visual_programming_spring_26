@@ -18,7 +18,7 @@ Araştırma ödevleri
 Kod ödevi
 1. Aşağıdaki 4 işlem uygulamasınız yapmaya çalışalım: (Kod ödevlerini kendiniz yazmaya çalışınız, yazdığınız yere kadar satır satır açıklayınız. Ardından programı yapay zekaya yazdırınız? Kendi yaklaşımınız ve onun yaklaşımını karşılaştırınız. (kodu tam yazan arkadaşlar da yapay zekanın yazdığı programla kendi yaklaşaımını karşılaştırsın) Yaklaşım farklarını veya neden çözemediğinizi yazınız.)
 
-   <img src ="https://github.com/yasinhoca/visual_programming_spring_24/blob/main/odev1/odev1.gif">
+   <img src ="https://github.com/yasinhoca/visual_programming_spring_24/blob/main/odev1/odev1.gif?raw=true">
 
 
 Araştırma ödevleri hakkında araştırma ve okuma yapalım. Kendi cümlelerimizle anladığımızı yazalım. 

@@ -5,3 +5,8 @@
   değilse chatGPT vb. bir yapay zekaya yükleyerek Türkçe'ye çevirtiniz ve okuyunuz. Ardından kendi cümleleriniz ile kısaca özetleyiniz.<br>
   d. Bu araştırmalardan sonra yazılım/bilişim işlerinin/mühendisliğinin geleceğine dair kendi öngörülerinizi/yorumunuzu bir paragraf olarak yazınız?<br>
   (Ödevin bu kısmı önemli, sizin yorumlarınız önemli)<br><br>
+
+  Kod ödevleri <br>
+2. Yazı rengi ve arka plan rengini combobox kullanarak kontrol eden aşağıdaki yazılımı yapınız.<br>
+<img src="https://github.com/yasinhoca/visual_programming_spring_26/blob/main/odev2_1.gif">
+  

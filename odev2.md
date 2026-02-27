@@ -8,8 +8,17 @@
 
   Kod ödevleri <br>
 2. Yazı rengi ve arka plan rengini combobox kullanarak kontrol eden aşağıdaki programı yazmaya çalışınız?<br><br>
-<img src="https://github.com/yasinhoca/visual_programming_spring_26/blob/main/odev2_1.gif"><br><br>
+<img src="https://github.com/yasinhoca/visual_programming_spring_26/blob/main/odev2_1.gif" style="width:75%"><br><br>
 3. Oluştur butonuna her basıldığında rastgele background ve foreground renklerine sahip, rastgele konumlu bir program yazmaya çalışınız?<br><br>
-<img src="https://github.com/yasinhoca/visual_programming_spring_26/blob/main/odev2_2.gif"><br><br>
+<img src="https://github.com/yasinhoca/visual_programming_spring_26/blob/main/odev2_2.gif" style="width:75%"><br><br>
+
+Ödevler elle yazılacaktır. Kod ödevlerini kendiniz yazmaya çalışınız, yazdığınız yere kadar satır satır açıklayınız. Ardından programı yapay zekaya yazdırınız? Kendi yaklaşımınız ve onun yaklaşımını karşılaştırınız. (kodu tam yazan arkadaşlar da yapay zekanın yazdığı programla kendi yaklaşaımını karşılaştırsın) Yaklaşım farklarını veya neden çözemediğinizi yazınız.<br>
+ Ödevler 11 Mart 2026 Çarşamba günü ders saatinde toplanacaktır.<br>
+  Ödevlerin hızlı kontrol edilebilmesi için, *mavi plastik kapaklı dosya içine her sayfa ayrı şeffaf dosyalara konulacak.<br>
+  "Ödev kapağı şablonu" repisitory içinde <a href="https://github.com/yasinhoca/visual_programming_spring_26/blob/main/kapak.docx" >kapak.docx</a> olarak bulunabilir.<br>
+  İlgili dosyalar classrooma da yüklenecek oradan da temin edebilirsiniz<br><br>
+  *Mavi kapaklı dosya :<br>
+  <img src="https://github.com/yasinhoca/visual_programming_spring_26/blob/main/maviDosya.jpg" style="width:25%">
+
 
   

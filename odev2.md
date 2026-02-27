@@ -8,5 +8,8 @@
 
   Kod ödevleri <br>
 2. Yazı rengi ve arka plan rengini combobox kullanarak kontrol eden aşağıdaki programı yazmaya çalışınız?<br><br>
-<img src="https://github.com/yasinhoca/visual_programming_spring_26/blob/main/odev2_1.gif">
+<img src="https://github.com/yasinhoca/visual_programming_spring_26/blob/main/odev2_1.gif"><br><br>
+3. Oluştur butonuna her basıldığında rastgele background ve foreground renklerine sahip, rastgele konumlu bir program yazmaya çalışınız?<br><br>
+<img src="https://github.com/yasinhoca/visual_programming_spring_26/blob/main/odev2_2.gif"><br><br>
+
   

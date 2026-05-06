@@ -1,4 +1,13 @@
-50x50 boyutlarında bir buton, 500x400 boyutlarında bir formda Timera bağlı olarak sürekli hareket etsin.Kenarlara temas ettiği zaman yön değiştirsin ve rastgele renk atansın. Form başlığında ise x,y konum bilgileri ve rgb renk bilgileri gösterilsin.
+50x50 boyutlarında bir buton, 
+500x400 boyutlarında bir formda Timera bağlı olarak sürekli hareket etsin.
+Kenarlara temas ettiği zaman yön değiştirsin ve rastgele renk atansın. 
+Form başlığında ise x,y konum bilgileri ve rgb renk bilgileri gösterilsin.
 
 
-Önce kendiniz yapmaya çalışın. Sonra yapay zekadan yardım alarak yapmaya çalışın. Kendi yaklaşımınız ve yz yaklaşımını kıyaslayınız. Ödev timer ve form kullanımını öğrenmek için önemldir. Sınavda bu ödevle ilgili sorular olacaktır. O yüzden herkes mutlaka denesin. Puansız/ödülsüz ödev diyerek boş vemeyin lütfen.
+Önce kendiniz yapmaya çalışın. 
+Sonra yapay zekadan yardım alarak yapmaya çalışın.
+Kendi yaklaşımınız ve yz yaklaşımını kıyaslayınız. 
+Ödev timer ve form kullanımını öğrenmek için önemldir. 
+Sınavda bu ödevle ilgili sorular olacaktır. 
+O yüzden herkes mutlaka denesin. 
+Puansız/ödülsüz ödev diyerek boş vemeyin lütfen.

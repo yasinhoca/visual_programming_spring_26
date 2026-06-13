@@ -1,0 +1,35 @@
+Örnek sorular:
+
+1. setBackGround() methodu ne tür veriler kabul eder? Geçerli bir renk kodu yazınız?
+2. Aşağıdaki kodu okuyunuz ve soruları cevaplayınız?
+  btn1.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mouseEntered(MouseEvent e) {
+                super.mouseEntered(e);                
+                btn1.setBackground(Color.BLUE);
+            }
+        });
+
+a) Kod ne zaman çalışır?
+b) Kod ne yapmaktadır?
+c) btn1 isimli butonun text özelliğini değiştirmek için kodu yazınız?
+d) btn1 isimli butonun text rengini burada sarı yapabilir miyiz? Yapabilirsek kodu yazınız?
+
+3. ComboBox componentinin içini 0-100 arasında rastgele 10 sayı ile dolduran kodu yazınız?
+
+Cevaplar: 
+1. Renk türü değişken alır. Color nesnesi üzerinden enumarator veya rgb constructerı ile iki şekilde tanımlanabilir
+button1.setBackGround(Color.YELLOW); //sarı
+veya
+button1.setBackground(new Color(0,0,255)); //lacivert
+
+2. a) mouse butonun üstüne geldiğinde
+b) imleç butonun üstüne geldiğinde butonun arkaplan rengini mavi yapıyor
+c) btn1.setText("FenerBahçe");
+d) Yaparız, btn1.setForeGround(COLOR.YELLOW);
+
+3.
+DefaultComboBoxModel model = new DefaultComboBoxModel<>();
+Random r = new Random();
+for(int i = 0;i<10;i++) model.addElement(r.nextInt(100));
+comboBox1.setModel(model);
